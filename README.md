@@ -1,4 +1,4 @@
 # Real-Estate-Price-Prediction
-Real estate price prediction utilizes multiple linear regression, a statistical technique that considers multiple independent variables to estimate the dependent variable.
-The project aims to deliver a reliable and accurate real estate price prediction model that can assist stakeholders in making informed decisions regarding property transactions.
-By leveraging multiple linear regression and incorporating relevant features, the model provides valuable insights into the factors influencing property prices, ultimately improving the efficiency and effectiveness of real estate transactions.
+Real estate price prediction utilizing multiple regression analysis is a sophisticated methodology that leverages various factors to forecast property values accurately. Multiple regression allows analysts to examine the relationship between several independent variables and a dependent variable, such as house prices, to uncover patterns and make informed predictions.
+
+In this approach, the independent variables could encompass a broad range of factors that influence real estate prices, including location, property size, number of bedrooms and bathrooms, neighborhood amenities, economic indicators, interest rates, and historical sales data. Each variable contributes differently to the overall prediction, and multiple regression helps weigh their relative importance.
